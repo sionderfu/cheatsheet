@@ -1,11 +1,10 @@
 # VIM
 ## vim-fugitive
 ### commands
-
-```
-- :Git 											| [args] 				| Calls any git command.
-- :G												| [args]				| Calls any git command.
-```
+| Command | Argument |      Description       |
+|:-------:|:--------:|:----------------------:|
+|  :Git   |  [args]  | Calls any git command. |
+|   :G    |  [args]  | Calls any git command. |
 
 ## vim-arduino
 ### commands
