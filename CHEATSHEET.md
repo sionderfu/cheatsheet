@@ -33,30 +33,30 @@
 ### Key-Binds
 |   Key-Bind    |                 Description                 |
 |:-------------:|:-------------------------------------------:|
-|  <Leader>ww   |        Open default wiki index file.        |
-|  <Leader>wt   | Open default wiki index file in a new tab.  |
-|  <Leader>ws   |      Select and open wiki index file.       |
-|  <Leader>wd   |        Delete wiki file you are in.         |
-|  <Leader>wr   |        Rename wiki file you are in.         |
-|    <Enter>    |          Follow/Create wiki link.           |
-| <Shift+Enter> |     Split and follow/create wiki link.      |
-| <Ctrl+Enter>  | Vertical split and follow/create wiki link. |
-| <Backspace>   |   Go back to parent(previous) wiki link.    |
-| <Tab>         |            Find next wiki link.             |
-| <Shift+Tab>   |          Find previous wiki link.           |
+|   Leader-ww   |        Open default wiki index file.        |
+|   Leader-wt   | Open default wiki index file in a new tab.  |
+|   Leader-ws   |      Select and open wiki index file.       |
+|   Leader-wd   |        Delete wiki file you are in.         |
+|   Leader-wr   |        Rename wiki file you are in.         |
+|     Enter     |          Follow/Create wiki link.           |
+|  Shift+Enter  |     Split and follow/create wiki link.      |
+|  Ctrl+Enter   | Vertical split and follow/create wiki link. |
+|   Backspace   |   Go back to parent(previous) wiki link.    |
+|      Tab      |            Find next wiki link.             |
+|   Shift+Tab   |          Find previous wiki link.           |
 
 ## VimTeX
 ### Key-Binds
 |   Key-Bind    |                 Description                 |
 |:-------------:|:-------------------------------------------:|
-|  <Leader>ll   |       Toggles automatic compilation.        |
+|   Leader-ll   |       Toggles automatic compilation.        |
 
 
 # TMUX
 ### Key-Binds
 | Key-Bind  |             Description              |
 |:---------:|:------------------------------------:|
-| <Ctrl+a>c |         Create new tmux tab.         |
-| <Ctrl+a>x | Close current tab. Opens y/n prompt. |
-| <Ctrl+a>n |           Go to next tab.            |
-| <Ctrl+a>p |         Go to previous tab.          |
+| Ctrl+a-c  |         Create new tmux tab.         |
+| Ctrl+a-x  | Close current tab. Opens y/n prompt. |
+| Ctrl+a-n  |           Go to next tab.            |
+| Ctrl+a-p  |         Go to previous tab.          |
